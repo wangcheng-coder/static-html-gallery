@@ -10,6 +10,7 @@
 | Pico | 几乎不写类名的语义化样式 | README 的示例页 | https://github.com/picocss/pico |
 | Milligram | 很小的一套基础样式 | README | https://github.com/milligram/milligram |
 | Pure | 分模块的轻量 CSS | 各模块 README | https://github.com/pure-css/pure |
+| Normalize.css | 只重置浏览器默认样式，不提供组件 | README 和 `normalize.css` | https://github.com/necolas/normalize.css |
 | DaisyUI | 在 Tailwind 上加现成组件类 | 组件文档 | https://github.com/saadeghi/daisyui |
 | Flowbite | Tailwind 组件和示例页 | 示例 HTML | https://github.com/themesberg/flowbite |
 | MDB UI Kit | Bootstrap 上的材料和示例页 | 示例目录 | https://github.com/mdbootstrap/mdb-ui-kit |
