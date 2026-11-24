@@ -7,7 +7,7 @@
 | SB Admin 2 | Bootstrap 后台，页面种类多 | `index.html`、`css/sb-admin-2.css` | https://github.com/StartBootstrap/startbootstrap-sb-admin-2 |
 | AdminLTE | 完整的后台皮肤和大量示例页 | `index.html`、`dist/` | https://github.com/ColorlibHQ/AdminLTE |
 | Gentelella | 另一套经典 Bootstrap 后台 | `production/` 里的 HTML | https://github.com/ColorlibHQ/gentelella |
-| Gentelella 镜像维护版 | 同上主题的另一个维护仓库，改之前先看哪边还在更新 | 根目录 HTML | https://github.com/puikinsh/gentelella |
+| Gentelella 镜像维护版 | 同上主题的另一个维护仓库，改之前先看哪边还在更新 | `production/` 里的 HTML | https://github.com/puikinsh/gentelella |
 | Adminator | 更轻的后台壳 | `src/` 或根目录入口 HTML | https://github.com/puikinsh/Adminator-admin-dashboard |
 | Tabler | 现在仍在更新的控制台界面 | 文档与 `core/`、示例页 | https://github.com/tabler/tabler |
 | Material Dashboard | Material 风格的卡片和图表页 | 示例 HTML | https://github.com/creativetimofficial/material-dashboard |
