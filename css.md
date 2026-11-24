@@ -9,6 +9,7 @@
 | Bulma | 只靠类名的 Flex 布局组件 | 文档里的示例 HTML | https://github.com/jgthms/bulma |
 | Pico | 几乎不写类名的语义化样式 | README 的示例页 | https://github.com/picocss/pico |
 | Milligram | 很小的一套基础样式 | README | https://github.com/milligram/milligram |
+| Skeleton | 只有栅格和少量按钮、表单的轻量样式 | README 和 `css/skeleton.css` | https://github.com/dhg/Skeleton |
 | Pure | 分模块的轻量 CSS | 各模块 README | https://github.com/pure-css/pure |
 | Normalize.css | 只重置浏览器默认样式，不提供组件 | README 和 `normalize.css` | https://github.com/necolas/normalize.css |
 | DaisyUI | 在 Tailwind 上加现成组件类 | 组件文档 | https://github.com/saadeghi/daisyui |
